@@ -37,7 +37,8 @@ https://htmlpreview.github.io/?amosCc/Java-Notes/blob/master/%E5%AF%BC%E5%9B%BE%
 1. 在上传之前会先上传到runjs.cn，然后就可以在线预览这个导图了~
 比如我上传的第一份（第一次没有在这里标注预览网址）：
 
-runjs：https://runjs.cn/detail/51uhh5u6
+runjs：https://sandbox.runjs.cn/show/51uhh5u6
+<!--https://runjs.cn/detail/51uhh5u6-->
 github：https://github.com/amosCc/Java-Notes/blob/master/%E5%AF%BC%E5%9B%BE%20%E5%B0%9D%E8%AF%95.html
 
 2. 使用在线HTML预览器预览
