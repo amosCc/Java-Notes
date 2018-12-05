@@ -32,6 +32,8 @@ https://htmlpreview.github.io/?amosCc/Java-Notes/blob/master/%E5%AF%BC%E5%9B%BE%
 
 ### 方法（预览与下载 - Preview & Download）
 
+0. 最简单的方法：**下载下来，再在浏览器打开**，还可以保存。（Android手机在浏览器打开也可以预览，iOS不清楚）
+
 1. 在上传之前会先上传到runjs.cn，然后就可以预览这个导图了~
 比如我上传的第一份（第一次没有在这里标注预览网址）
 
